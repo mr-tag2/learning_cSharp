@@ -1,0 +1,17 @@
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\bin\Debug\net8.0-windows\ChangeColorTreadTest.exe
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\bin\Debug\net8.0-windows\ChangeColorTreadTest.deps.json
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\bin\Debug\net8.0-windows\ChangeColorTreadTest.runtimeconfig.json
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\bin\Debug\net8.0-windows\ChangeColorTreadTest.dll
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\bin\Debug\net8.0-windows\ChangeColorTreadTest.pdb
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.Form1.resources
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.csproj.GenerateResource.cache
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.AssemblyInfoInputs.cache
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.AssemblyInfo.cs
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.sourcelink.json
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.dll
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\refint\ChangeColorTreadTest.dll
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.pdb
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ChangeColorTreadTest.genruntimeconfig.cache
+D:\Projects\leaning_projects\c#\ChangeColorTreadTest\ChangeColorTreadTest\obj\Debug\net8.0-windows\ref\ChangeColorTreadTest.dll

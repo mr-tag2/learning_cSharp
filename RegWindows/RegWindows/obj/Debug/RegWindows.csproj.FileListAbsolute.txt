@@ -1,0 +1,10 @@
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\bin\Debug\RegWindows.exe.config
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\bin\Debug\RegWindows.exe
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\bin\Debug\RegWindows.pdb
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.csproj.AssemblyReference.cache
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.Form1.resources
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.Properties.Resources.resources
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.csproj.GenerateResource.cache
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.exe
+D:\Projects\leaning_projects\c#\RegWindows\RegWindows\obj\Debug\RegWindows.pdb

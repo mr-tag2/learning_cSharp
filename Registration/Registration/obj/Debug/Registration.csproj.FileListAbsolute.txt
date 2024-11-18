@@ -1,0 +1,12 @@
+D:\Projects\leaning_projects\c#\Registration\Registration\bin\Debug\Registration.exe.config
+D:\Projects\leaning_projects\c#\Registration\Registration\bin\Debug\Registration.exe
+D:\Projects\leaning_projects\c#\Registration\Registration\bin\Debug\Registration.pdb
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.Form1.resources
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.exe
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.pdb
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.Main.resources
+D:\Projects\leaning_projects\c#\Registration\Registration\obj\Debug\Registration.ResetPasswordPage.resources

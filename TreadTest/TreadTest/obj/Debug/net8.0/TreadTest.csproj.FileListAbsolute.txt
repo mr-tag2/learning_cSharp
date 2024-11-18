@@ -1,0 +1,15 @@
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\bin\Debug\net8.0\TreadTest.exe
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\bin\Debug\net8.0\TreadTest.deps.json
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\bin\Debug\net8.0\TreadTest.runtimeconfig.json
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\bin\Debug\net8.0\TreadTest.dll
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\bin\Debug\net8.0\TreadTest.pdb
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.AssemblyInfoInputs.cache
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.AssemblyInfo.cs
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.sourcelink.json
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.dll
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\refint\TreadTest.dll
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.pdb
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\TreadTest.genruntimeconfig.cache
+D:\Projects\leaning_projects\c#\TreadTest\TreadTest\obj\Debug\net8.0\ref\TreadTest.dll

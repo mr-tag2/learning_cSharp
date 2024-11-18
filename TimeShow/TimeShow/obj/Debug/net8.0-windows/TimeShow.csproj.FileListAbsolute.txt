@@ -1,0 +1,17 @@
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\bin\Debug\net8.0-windows\TimeShow.exe
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\bin\Debug\net8.0-windows\TimeShow.deps.json
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\bin\Debug\net8.0-windows\TimeShow.runtimeconfig.json
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\bin\Debug\net8.0-windows\TimeShow.dll
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\bin\Debug\net8.0-windows\TimeShow.pdb
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.Form1.resources
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.csproj.GenerateResource.cache
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.AssemblyInfoInputs.cache
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.AssemblyInfo.cs
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.csproj.CoreCompileInputs.cache
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.sourcelink.json
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.dll
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\refint\TimeShow.dll
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.pdb
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\TimeShow.genruntimeconfig.cache
+D:\Projects\leaning_projects\c#\TimeShow\TimeShow\obj\Debug\net8.0-windows\ref\TimeShow.dll

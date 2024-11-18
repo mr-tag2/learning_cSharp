@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|D:\\Projects\\leaning_projects\\c#\\AccWinForms\\accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|d:\\projects\\leaning_projects\\c#\\accwinforms\\accwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFADCD11-ECD9-4592-B6F0-E941E7373EE4}|AccWinForms\\AccWinForms.csproj|solutionrelative:accwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Class1.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Class1.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Class1.cs",
+              "RelativeToolTip": "AccWinForms\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:12:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form3.Designer.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.Designer.cs",
+              "RelativeToolTip": "AccWinForms\\Form3.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:09:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form3.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs [Design]",
+              "RelativeToolTip": "AccWinForms\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:09:21.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form3.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form3.cs",
+              "RelativeToolTip": "AccWinForms\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:05:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form1.Designer.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "AccWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:58:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form2.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs",
+              "RelativeToolTip": "AccWinForms\\Form2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:58:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form1.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
+              "RelativeToolTip": "AccWinForms\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:56:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form2.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form2.cs [Design]",
+              "RelativeToolTip": "AccWinForms\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:52:17.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AccWinForms\\Form1.cs",
+              "ToolTip": "D:\\Projects\\leaning_projects\\c#\\AccWinForms\\AccWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "AccWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:52:14.466Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
