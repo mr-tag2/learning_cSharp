@@ -1,17 +1,8 @@
-﻿using Microsoft.Win32;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Security.Policy;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Win32;
 using System.Windows.Forms;
-using System.Xml.Linq;
+using System.Threading.Tasks;
 
-namespace RegWindows
+namespace RegSearch
 {
     public partial class Form1 : Form
     {
@@ -20,6 +11,7 @@ namespace RegWindows
             InitializeComponent();
         }
         List<string> list = new List<string>();
+
         private void button1_Click(object sender, EventArgs e)
         {
             RegistryKey[] keys =
@@ -30,13 +22,40 @@ namespace RegWindows
                 Registry.LocalMachine
             };
 
-            foreach (RegistryKey key in keys)
+            var start = DateTime.Now;
+
+            Thread[] threads = new Thread[4];
+            for (int i = 0; i < keys.Length; i++)
             {
-                Serach(key, textBox1.Text, true);
-                Serach(key, textBox1.Text, false);
+                threads[i] = new Thread(new ParameterizedThreadStart(Work));
+                threads[i].IsBackground = true;
+                threads[i].Start(keys[i]);
+
+            }
+            for (int i = 0; i < threads.Length; i++)
+            {
+                threads[i].Join();
             }
 
-            listBox1.Items.AddRange((list).ToArray());
+
+            //foreach (RegistryKey key in keys)
+            //{
+            //    Serach(key, textBox1.Text, true);
+            //    Serach(key, textBox1.Text, false);
+            //}
+
+
+            string str = string.Empty;
+            foreach (var item in list)
+            {
+                str += item + Environment.NewLine;
+            }
+
+            str += "C : " + list.Count + Environment.NewLine;
+            str += "D : " + DateTime.Now.Subtract(start).TotalSeconds;
+
+            MessageBox.Show(str);
+
         }
 
         private void Serach(RegistryKey node, string searchValue, bool isSubkey)
@@ -71,9 +90,20 @@ namespace RegWindows
             catch { }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void Work(object root)
         {
+            try
+            {
+                RegistryKey convertedRoot = (RegistryKey)root;
+                Serach(convertedRoot, textBox1.Text, true);
+                Serach(convertedRoot, textBox1.Text, false);
 
+            }
+            finally
+            {
+
+            }
         }
+
     }
 }
