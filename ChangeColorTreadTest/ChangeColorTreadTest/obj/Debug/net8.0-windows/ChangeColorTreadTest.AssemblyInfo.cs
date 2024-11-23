@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChangeColorTreadTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+107f70b0e253e10052de09d714169fe9fb7a0668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908863018442cfc0d8d6b746d316200e7b36d2f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChangeColorTreadTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChangeColorTreadTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

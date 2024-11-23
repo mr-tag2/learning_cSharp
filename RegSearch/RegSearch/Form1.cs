@@ -10,32 +10,19 @@ namespace RegSearch
         {
             InitializeComponent();
         }
+        Thread[] threads = new Thread[4];
         List<string> list = new List<string>();
 
-        private void button1_Click(object sender, EventArgs e)
+        RegistryKey[] keys =
         {
-            RegistryKey[] keys =
-            {
                 Registry.ClassesRoot,
                 Registry.CurrentConfig,
                 Registry.CurrentUser,
                 Registry.LocalMachine
             };
 
-            var start = DateTime.Now;
-
-            Thread[] threads = new Thread[4];
-            for (int i = 0; i < keys.Length; i++)
-            {
-                threads[i] = new Thread(new ParameterizedThreadStart(Work));
-                threads[i].IsBackground = true;
-                threads[i].Start(keys[i]);
-
-            }
-            for (int i = 0; i < threads.Length; i++)
-            {
-                threads[i].Join();
-            }
+        private void button1_Click(object sender, EventArgs e)
+        {
 
 
             //foreach (RegistryKey key in keys)
@@ -45,16 +32,18 @@ namespace RegSearch
             //}
 
 
-            string str = string.Empty;
-            foreach (var item in list)
-            {
-                str += item + Environment.NewLine;
-            }
+            //for (int i = 0; i < keys.Length; i++)
+            //{
+            //    threads[i] = new Thread(new ParameterizedThreadStart(Work));
+            //    threads[i].IsBackground = true;
+            //    threads[i].Start(keys[i]);
 
-            str += "C : " + list.Count + Environment.NewLine;
-            str += "D : " + DateTime.Now.Subtract(start).TotalSeconds;
+            //}
 
-            MessageBox.Show(str);
+            Thread w = new Thread(Finish);
+            w.IsBackground = true;
+            w.Start();
+
 
         }
 
@@ -105,5 +94,70 @@ namespace RegSearch
             }
         }
 
+        private void Finish()
+        {
+
+            try
+            {
+
+
+
+
+                var start = DateTime.Now;
+
+
+
+                for (int i = 0; i < keys.Length; i++)
+                {
+                    threads[i] = new Thread(new ParameterizedThreadStart(Work));
+                    threads[i].IsBackground = true;
+                    threads[i].Start(keys[i]);
+
+                }
+                for (int i = 0; i < threads.Length; i++)
+                {
+                    threads[i].Join();
+                }
+
+
+
+                string str = string.Empty;
+                foreach (var item in list)
+                {
+                    str += item + Environment.NewLine;
+                }
+
+                str += "C : " + list.Count + Environment.NewLine;
+                str += "D : " + DateTime.Now.Subtract(start).TotalSeconds;
+
+                MessageBox.Show(str);
+                richTextBox1.Text = str;
+
+            }
+            catch { }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < threads.Length; i++)
+            {
+                if (threads[i].IsAlive)
+                {
+                    try
+                    {
+                        //threads[i].Abort();
+                        threads[i].Abort();
+
+                    }
+                    catch { 
+                    
+                    
+                    }
+
+
+                }
+            }
+
+        }
     }
 }

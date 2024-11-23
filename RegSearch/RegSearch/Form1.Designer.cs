@@ -31,6 +31,8 @@
             textBox1 = new TextBox();
             label1 = new Label();
             button1 = new Button();
+            richTextBox1 = new RichTextBox();
+            button2 = new Button();
             SuspendLayout();
             // 
             // textBox1
@@ -62,11 +64,32 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // richTextBox1
+            // 
+            richTextBox1.Location = new Point(12, 74);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(560, 291);
+            richTextBox1.TabIndex = 3;
+            richTextBox1.Text = "";
+            // 
+            // button2
+            // 
+            button2.Location = new Point(364, 373);
+            button2.Margin = new Padding(4, 5, 4, 5);
+            button2.Name = "button2";
+            button2.Size = new Size(100, 35);
+            button2.TabIndex = 4;
+            button2.Text = "Abort";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(589, 422);
+            Controls.Add(button2);
+            Controls.Add(richTextBox1);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(textBox1);
@@ -85,5 +108,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private RichTextBox richTextBox1;
+        private Button button2;
     }
 }
