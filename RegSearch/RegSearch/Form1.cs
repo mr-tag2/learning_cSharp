@@ -1,6 +1,9 @@
 using Microsoft.Win32;
-using System.Windows.Forms;
+using System;
+using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace RegSearch
 {
@@ -10,59 +13,70 @@ namespace RegSearch
         {
             InitializeComponent();
         }
-        Thread[] threads = new Thread[4];
-        List<string> list = new List<string>();
+
+        private CancellationTokenSource cts;
+        private List<string> list = new List<string>();
 
         RegistryKey[] keys =
         {
-                Registry.ClassesRoot,
-                Registry.CurrentConfig,
-                Registry.CurrentUser,
-                Registry.LocalMachine
-            };
+            Registry.ClassesRoot,
+            Registry.CurrentConfig,
+            Registry.CurrentUser,
+            Registry.LocalMachine
+        };
 
-        private void button1_Click(object sender, EventArgs e)
+        private async void button1_Click(object sender, EventArgs e)
         {
+            cts = new CancellationTokenSource();
+            list.Clear();
 
+            try
+            {
+                var start = DateTime.Now;
 
-            //foreach (RegistryKey key in keys)
-            //{
-            //    Serach(key, textBox1.Text, true);
-            //    Serach(key, textBox1.Text, false);
-            //}
+                
+                var tasks = new List<Task>();
+                foreach (var key in keys)
+                {
+                    tasks.Add(Task.Run(() => Work(key, textBox1.Text, cts.Token), cts.Token));
+                }
 
+                await Task.WhenAll(tasks);
 
-            //for (int i = 0; i < keys.Length; i++)
-            //{
-            //    threads[i] = new Thread(new ParameterizedThreadStart(Work));
-            //    threads[i].IsBackground = true;
-            //    threads[i].Start(keys[i]);
+                
+                string str = string.Join(Environment.NewLine, list);
+                str += $"\nC: {list.Count}\nD: {DateTime.Now.Subtract(start).TotalSeconds} seconds";
 
-            //}
-
-            Thread w = new Thread(Finish);
-            w.IsBackground = true;
-            w.Start();
-
-
+                MessageBox.Show(str);
+                richTextBox1.Text = str;
+            }
+            catch (OperationCanceledException)
+            {
+                MessageBox.Show("Search was canceled.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error: {ex.Message}");
+            }
         }
 
-        private void Serach(RegistryKey node, string searchValue, bool isSubkey)
+        private void Serach(RegistryKey node, string searchValue, bool isSubkey, CancellationToken token)
         {
-
             try
             {
                 var values = isSubkey ? node.GetSubKeyNames() : node.GetValueNames();
 
                 foreach (var value in values)
                 {
+                    token.ThrowIfCancellationRequested();
+
                     if (isSubkey)
                     {
                         var key = node.OpenSubKey(value);
                         if (key != null)
                         {
-                            Serach(key, textBox1.Text, true);
-                            Serach(key, textBox1.Text, false);
+                            Serach(key, searchValue, true, token);
+                            Serach(key, searchValue, false, token);
                         }
                     }
                     else
@@ -70,94 +84,32 @@ namespace RegSearch
                         var val = Convert.ToString(node.GetValue(value, ""));
                         if (val == searchValue)
                         {
-                            list.Add(Convert.ToString(node) + "\\" + value);
-
+                            lock (list)
+                            {
+                                list.Add(Convert.ToString(node) + "\\" + value);
+                            }
                         }
                     }
                 }
             }
-            catch { }
-        }
-
-        private void Work(object root)
-        {
-            try
+            catch
             {
-                RegistryKey convertedRoot = (RegistryKey)root;
-                Serach(convertedRoot, textBox1.Text, true);
-                Serach(convertedRoot, textBox1.Text, false);
-
-            }
-            finally
-            {
-
+                
             }
         }
 
-        private void Finish()
+        private void Work(RegistryKey root, string searchValue, CancellationToken token)
         {
-
-            try
-            {
-
-
-
-
-                var start = DateTime.Now;
-
-
-
-                for (int i = 0; i < keys.Length; i++)
-                {
-                    threads[i] = new Thread(new ParameterizedThreadStart(Work));
-                    threads[i].IsBackground = true;
-                    threads[i].Start(keys[i]);
-
-                }
-                for (int i = 0; i < threads.Length; i++)
-                {
-                    threads[i].Join();
-                }
-
-
-
-                string str = string.Empty;
-                foreach (var item in list)
-                {
-                    str += item + Environment.NewLine;
-                }
-
-                str += "C : " + list.Count + Environment.NewLine;
-                str += "D : " + DateTime.Now.Subtract(start).TotalSeconds;
-
-                MessageBox.Show(str);
-                richTextBox1.Text = str;
-
-            }
-            catch { }
+            Serach(root, searchValue, true, token);
+            Serach(root, searchValue, false, token);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < threads.Length; i++)
+            if (cts != null)
             {
-                if (threads[i].IsAlive)
-                {
-                    try
-                    {
-                        //threads[i].Abort();
-                        threads[i].Abort();
-
-                    }
-                    catch { 
-                    
-                    
-                    }
-
-
-                }
+                cts.Cancel();
             }
-
         }
     }
 }

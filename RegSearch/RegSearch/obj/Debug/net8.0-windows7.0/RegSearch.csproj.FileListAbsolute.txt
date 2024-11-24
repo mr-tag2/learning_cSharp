@@ -1,0 +1,17 @@
+D:\Projects\learning_cSharp\RegSearch\RegSearch\bin\Debug\net8.0-windows7.0\RegSearch.exe
+D:\Projects\learning_cSharp\RegSearch\RegSearch\bin\Debug\net8.0-windows7.0\RegSearch.deps.json
+D:\Projects\learning_cSharp\RegSearch\RegSearch\bin\Debug\net8.0-windows7.0\RegSearch.runtimeconfig.json
+D:\Projects\learning_cSharp\RegSearch\RegSearch\bin\Debug\net8.0-windows7.0\RegSearch.dll
+D:\Projects\learning_cSharp\RegSearch\RegSearch\bin\Debug\net8.0-windows7.0\RegSearch.pdb
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.Form1.resources
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.csproj.GenerateResource.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.AssemblyInfoInputs.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.AssemblyInfo.cs
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.csproj.CoreCompileInputs.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.sourcelink.json
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.dll
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\refint\RegSearch.dll
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.pdb
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\RegSearch.genruntimeconfig.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net8.0-windows7.0\ref\RegSearch.dll
