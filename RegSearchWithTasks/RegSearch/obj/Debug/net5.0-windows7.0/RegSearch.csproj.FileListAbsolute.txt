@@ -1,0 +1,7 @@
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.Form1.resources
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.csproj.GenerateResource.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.AssemblyInfoInputs.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.AssemblyInfo.cs
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.csproj.CoreCompileInputs.cache
+D:\Projects\learning_cSharp\RegSearch\RegSearch\obj\Debug\net5.0-windows7.0\RegSearch.sourcelink.json

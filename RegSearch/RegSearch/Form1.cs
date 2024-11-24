@@ -2,7 +2,6 @@ using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RegSearch
@@ -14,8 +13,9 @@ namespace RegSearch
             InitializeComponent();
         }
 
-        private CancellationTokenSource cts;
+        private Thread[] threads = new Thread[4];
         private List<string> list = new List<string>();
+        private CancellationTokenSource cts;
 
         RegistryKey[] keys =
         {
@@ -25,58 +25,64 @@ namespace RegSearch
             Registry.LocalMachine
         };
 
-        private async void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             cts = new CancellationTokenSource();
             list.Clear();
 
-            try
-            {
-                var start = DateTime.Now;
+            var start = DateTime.Now;
 
-                
-                var tasks = new List<Task>();
-                foreach (var key in keys)
+            for (int i = 0; i < keys.Length; i++)
+            {
+                int index = i;
+                threads[i] = new Thread(() => Work(keys[index], textBox1.Text, cts.Token))
                 {
-                    tasks.Add(Task.Run(() => Work(key, textBox1.Text, cts.Token), cts.Token));
+                    IsBackground = true
+                };
+                threads[i].Start();
+            }
+
+            Thread finishThread = new Thread(() =>
+            {
+                for (int i = 0; i < threads.Length; i++)
+                {
+                    threads[i]?.Join();
                 }
 
-                await Task.WhenAll(tasks);
+                string result = string.Join(Environment.NewLine, list);
+                result += $"\nC: {list.Count}";
+                result += $"\nD: {DateTime.Now.Subtract(start).TotalSeconds} seconds";
 
-                
-                string str = string.Join(Environment.NewLine, list);
-                str += $"\nC: {list.Count}\nD: {DateTime.Now.Subtract(start).TotalSeconds} seconds";
-
-                MessageBox.Show(str);
-                richTextBox1.Text = str;
-            }
-            catch (OperationCanceledException)
+                Invoke(new Action(() =>
+                {
+                    richTextBox1.Text = result;
+                }));
+            })
             {
-                MessageBox.Show("Search was canceled.");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error: {ex.Message}");
-            }
+                IsBackground = true
+            };
+            finishThread.Start();
         }
 
-        private void Serach(RegistryKey node, string searchValue, bool isSubkey, CancellationToken token)
+        private void Search(RegistryKey node, string searchValue, bool isSubKey, CancellationToken token)
         {
+            if (token.IsCancellationRequested) return;
+
             try
             {
-                var values = isSubkey ? node.GetSubKeyNames() : node.GetValueNames();
+                var values = isSubKey ? node.GetSubKeyNames() : node.GetValueNames();
 
                 foreach (var value in values)
                 {
-                    token.ThrowIfCancellationRequested();
+                    if (token.IsCancellationRequested) return;
 
-                    if (isSubkey)
+                    if (isSubKey)
                     {
                         var key = node.OpenSubKey(value);
                         if (key != null)
                         {
-                            Serach(key, searchValue, true, token);
-                            Serach(key, searchValue, false, token);
+                            Search(key, searchValue, true, token);
+                            Search(key, searchValue, false, token);
                         }
                     }
                     else
@@ -92,16 +98,19 @@ namespace RegSearch
                     }
                 }
             }
-            catch
-            {
-                
-            }
+            catch { }
         }
 
         private void Work(RegistryKey root, string searchValue, CancellationToken token)
         {
-            Serach(root, searchValue, true, token);
-            Serach(root, searchValue, false, token);
+            if (token.IsCancellationRequested) return;
+
+            try
+            {
+                Search(root, searchValue, true, token);
+                Search(root, searchValue, false, token);
+            }
+            catch { }
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -109,6 +118,14 @@ namespace RegSearch
             if (cts != null)
             {
                 cts.Cancel();
+            }
+
+            for (int i = 0; i < threads.Length; i++)
+            {
+                if (threads[i] != null && threads[i].IsAlive)
+                {
+                    threads[i].Join();
+                }
             }
         }
     }
