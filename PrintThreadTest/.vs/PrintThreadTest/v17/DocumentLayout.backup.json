@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\learning_cSharp\\PrintThreadTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4784FCC-049A-4463-90BC-CAE1638D2785}|PrintThreadTest\\PrintThreadTest.csproj|d:\\projects\\learning_csharp\\printthreadtest\\printthreadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4784FCC-049A-4463-90BC-CAE1638D2785}|PrintThreadTest\\PrintThreadTest.csproj|solutionrelative:printthreadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\learning_cSharp\\PrintThreadTest\\PrintThreadTest\\Program.cs",
+              "RelativeDocumentMoniker": "PrintThreadTest\\Program.cs",
+              "ToolTip": "D:\\Projects\\learning_cSharp\\PrintThreadTest\\PrintThreadTest\\Program.cs",
+              "RelativeToolTip": "PrintThreadTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:02:00.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\bin\Debug\net8.0\PrintThreadTest.exe
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\bin\Debug\net8.0\PrintThreadTest.deps.json
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\bin\Debug\net8.0\PrintThreadTest.runtimeconfig.json
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\bin\Debug\net8.0\PrintThreadTest.dll
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\bin\Debug\net8.0\PrintThreadTest.pdb
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.AssemblyInfoInputs.cache
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.AssemblyInfo.cs
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.csproj.CoreCompileInputs.cache
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.sourcelink.json
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.dll
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\refint\PrintThreadTest.dll
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.pdb
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\PrintThreadTest.genruntimeconfig.cache
+D:\Projects\learning_cSharp\PrintThreadTest\PrintThreadTest\obj\Debug\net8.0\ref\PrintThreadTest.dll

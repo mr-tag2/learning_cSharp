@@ -1,0 +1,15 @@
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.AssemblyInfoInputs.cache
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.AssemblyInfo.cs
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.csproj.CoreCompileInputs.cache
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.sourcelink.json
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\bin\Debug\net8.0\DiceRandom.exe
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\bin\Debug\net8.0\DiceRandom.deps.json
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\bin\Debug\net8.0\DiceRandom.runtimeconfig.json
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\bin\Debug\net8.0\DiceRandom.dll
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\bin\Debug\net8.0\DiceRandom.pdb
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.dll
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\refint\DiceRandom.dll
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.pdb
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\DiceRandom.genruntimeconfig.cache
+D:\Projects\learning_cSharp\DiceRandom\DiceRandom\obj\Debug\net8.0\ref\DiceRandom.dll
