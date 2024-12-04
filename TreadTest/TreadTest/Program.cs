@@ -7,18 +7,17 @@ namespace TreadTest
 {
     internal class Program
     {
-        delegate void Test(int x);
-
-        delegate void Test1();
-        delegate void Test2(object x);
+        //delegate void Test(int x);
+        //delegate void Test1();
+        //delegate void Test2(object x);
 
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
-            Test k = func;
+            //Test k = func;
 
             //xx(5);
-            k(6);
+            //k(6);
 
 
             Thread w = new Thread(writeX);
@@ -30,10 +29,10 @@ namespace TreadTest
 
         }
 
-        static void func(int r)
-        {
+        //static void func(int r)
+        //{
 
-        }
+        //}
 
         static void writeX()
         {

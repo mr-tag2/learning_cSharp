@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreadTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f95285d729eccdee5a09946e15049bed22913760")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be04dbf211aa4be33798bcc2a8f040ed6ced27f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreadTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreadTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

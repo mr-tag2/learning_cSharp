@@ -10,17 +10,16 @@ namespace Q1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }   
 
         private void button1_Click(object sender, EventArgs e)
         {
             Button t = (Button)sender;
-            int targetValue = Convert.ToInt16(t.Text);
+            int x = Convert.ToInt16(t.Text);
             //MessageBox.Show(targetValue.ToString());
-            if(Convert.ToInt16(label1.Text) < targetValue)
+            if(Convert.ToInt16(label1.Text) < x)
             {
-                label1.Text = targetValue.ToString();
+                label1.Text = x.ToString();
 
             }
             else

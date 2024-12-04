@@ -19,9 +19,9 @@ namespace Q2
 
         private void button1_Click(object sender, EventArgs e)
         {
-         
-            Form2 form2 = new Form2();
-            form2.ShowDialog(); 
+
+            Form2 form2 = new Form2(radioValue);
+            form2.ShowDialog();
 
         }
     }
