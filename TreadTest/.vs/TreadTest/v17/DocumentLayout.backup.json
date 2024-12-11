@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\learning_cSharp\\TreadTest\\",
+  "WorkspaceRootPath": "C:\\Projects\\_Learning\\learning_cSharp\\TreadTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE107A9-A3BF-48C5-98CE-63CF371F5FAB}|TreadTest\\TreadTest.csproj|d:\\projects\\learning_csharp\\treadtest\\treadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE107A9-A3BF-48C5-98CE-63CF371F5FAB}|TreadTest\\TreadTest.csproj|c:\\projects\\_learning\\learning_csharp\\treadtest\\treadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE107A9-A3BF-48C5-98CE-63CF371F5FAB}|TreadTest\\TreadTest.csproj|solutionrelative:treadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\learning_cSharp\\TreadTest\\TreadTest\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\_Learning\\learning_cSharp\\TreadTest\\TreadTest\\Program.cs",
               "RelativeDocumentMoniker": "TreadTest\\Program.cs",
-              "ToolTip": "D:\\Projects\\learning_cSharp\\TreadTest\\TreadTest\\Program.cs",
+              "ToolTip": "C:\\Projects\\_Learning\\learning_cSharp\\TreadTest\\TreadTest\\Program.cs",
               "RelativeToolTip": "TreadTest\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T04:53:47.91Z",
               "EditorCaption": ""

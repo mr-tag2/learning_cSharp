@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrintThreadTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be4e50b3a20521dd0bd420269a1948ade1e72c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae3d8345e3c750c7d3be35de646ad63e279031d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrintThreadTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrintThreadTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

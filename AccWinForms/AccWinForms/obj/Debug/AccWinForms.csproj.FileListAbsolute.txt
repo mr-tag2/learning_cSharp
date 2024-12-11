@@ -10,3 +10,15 @@ D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\bin\Debug\WindowsFormsAp
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.exe
 D:\Projects\leaning_projects\c#\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.pdb
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\bin\Debug\WindowsFormsApplication.exe.config
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\bin\Debug\WindowsFormsApplication.exe
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\bin\Debug\WindowsFormsApplication.pdb
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\AccWinForms.csproj.AssemblyReference.cache
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\AccWinForms.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\AccWinForms.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.exe
+C:\Projects\_Learning\learning_cSharp\AccWinForms\AccWinForms\obj\Debug\WindowsFormsApplication.pdb
