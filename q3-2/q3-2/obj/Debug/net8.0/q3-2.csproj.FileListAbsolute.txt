@@ -1,0 +1,15 @@
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\bin\Debug\net8.0\q3-2.exe
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\bin\Debug\net8.0\q3-2.deps.json
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\bin\Debug\net8.0\q3-2.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\bin\Debug\net8.0\q3-2.dll
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\bin\Debug\net8.0\q3-2.pdb
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.dll
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\refint\q3-2.dll
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.pdb
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\q3-2.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\q3-2\q3-2\obj\Debug\net8.0\ref\q3-2.dll
