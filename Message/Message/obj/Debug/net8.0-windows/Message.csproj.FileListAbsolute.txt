@@ -1,0 +1,17 @@
+C:\Projects\_Learning\learning_cSharp\Message\Message\bin\Debug\net8.0-windows\Message.exe
+C:\Projects\_Learning\learning_cSharp\Message\Message\bin\Debug\net8.0-windows\Message.deps.json
+C:\Projects\_Learning\learning_cSharp\Message\Message\bin\Debug\net8.0-windows\Message.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\Message\Message\bin\Debug\net8.0-windows\Message.dll
+C:\Projects\_Learning\learning_cSharp\Message\Message\bin\Debug\net8.0-windows\Message.pdb
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.Form1.resources
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.dll
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\refint\Message.dll
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.pdb
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\Message.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\Message\Message\obj\Debug\net8.0-windows\ref\Message.dll

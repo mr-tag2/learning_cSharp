@@ -1,0 +1,17 @@
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\bin\Debug\net8.0-windows\ShowDateTime.exe
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\bin\Debug\net8.0-windows\ShowDateTime.deps.json
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\bin\Debug\net8.0-windows\ShowDateTime.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\bin\Debug\net8.0-windows\ShowDateTime.dll
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\bin\Debug\net8.0-windows\ShowDateTime.pdb
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.Form1.resources
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.dll
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\refint\ShowDateTime.dll
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.pdb
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ShowDateTime.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\ShowDateTime\ShowDateTime\obj\Debug\net8.0-windows\ref\ShowDateTime.dll
