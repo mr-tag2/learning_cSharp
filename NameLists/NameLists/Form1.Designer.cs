@@ -39,9 +39,9 @@
             listBox1.Dock = DockStyle.Bottom;
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(0, 45);
+            listBox1.Location = new Point(0, 41);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(662, 454);
+            listBox1.Size = new Size(662, 424);
             listBox1.TabIndex = 0;
             // 
             // textBox1
@@ -75,7 +75,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(662, 499);
+            ClientSize = new Size(662, 465);
             Controls.Add(deletebtn);
             Controls.Add(addbtn);
             Controls.Add(textBox1);

@@ -1,0 +1,17 @@
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\bin\Debug\net8.0-windows\F2C_Example.exe
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\bin\Debug\net8.0-windows\F2C_Example.deps.json
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\bin\Debug\net8.0-windows\F2C_Example.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\bin\Debug\net8.0-windows\F2C_Example.dll
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\bin\Debug\net8.0-windows\F2C_Example.pdb
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.Form1.resources
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.dll
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\refint\F2C_Example.dll
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.pdb
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\F2C_Example.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\F2C_Example\F2C_Example\obj\Debug\net8.0-windows\ref\F2C_Example.dll
