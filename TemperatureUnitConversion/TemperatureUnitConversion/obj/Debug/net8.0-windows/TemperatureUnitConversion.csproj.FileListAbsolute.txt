@@ -15,3 +15,4 @@ C:\Projects\_Learning\learning_cSharp\TemperatureUnitConversion\TemperatureUnitC
 C:\Projects\_Learning\learning_cSharp\TemperatureUnitConversion\TemperatureUnitConversion\obj\Debug\net8.0-windows\TemperatureUnitConversion.pdb
 C:\Projects\_Learning\learning_cSharp\TemperatureUnitConversion\TemperatureUnitConversion\obj\Debug\net8.0-windows\TemperatureUnitConversion.genruntimeconfig.cache
 C:\Projects\_Learning\learning_cSharp\TemperatureUnitConversion\TemperatureUnitConversion\obj\Debug\net8.0-windows\ref\TemperatureUnitConversion.dll
+C:\Projects\_Learning\learning_cSharp\TemperatureUnitConversion\TemperatureUnitConversion\obj\Debug\net8.0-windows\TemperatureUnitConversion.Properties.Resources.resources

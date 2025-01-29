@@ -1,0 +1,17 @@
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\bin\Debug\net8.0-windows\RandomGame.exe
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\bin\Debug\net8.0-windows\RandomGame.deps.json
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\bin\Debug\net8.0-windows\RandomGame.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\bin\Debug\net8.0-windows\RandomGame.dll
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\bin\Debug\net8.0-windows\RandomGame.pdb
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.Form1.resources
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.dll
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\refint\RandomGame.dll
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.pdb
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\RandomGame.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\RandomGame\RandomGame\obj\Debug\net8.0-windows\ref\RandomGame.dll

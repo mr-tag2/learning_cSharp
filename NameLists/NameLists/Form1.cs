@@ -10,7 +10,8 @@ namespace NameLists
 
         private void addbtn_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox1.Text);
+            if (textBox1.Text != "")
+                listBox1.Items.Add(textBox1.Text);
             textBox1.Text = "";
 
         }
@@ -20,5 +21,6 @@ namespace NameLists
             listBox1.Items.Remove(textBox1.Text);
             textBox1.Text = "";
         }
-    }   
+    }
 }
+

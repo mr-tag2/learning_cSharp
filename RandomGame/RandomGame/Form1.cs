@@ -13,13 +13,15 @@ namespace RandomGame
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int value=Convert.ToInt32(textBox1.Text);
+            int value = Convert.ToInt32(textBox1.Text);
             if (value == tragetRandom)
                 MessageBox.Show("Equls");
             else if (value < tragetRandom)
                 MessageBox.Show("Higher");
             else if (value > tragetRandom)
                 MessageBox.Show("Lower");
+
+
         }
     }
 }

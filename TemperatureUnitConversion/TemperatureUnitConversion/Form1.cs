@@ -41,11 +41,15 @@ namespace TemperatureUnitConversion
             double x = Convert.ToDouble(textBox1.Text);
 
             if (comboBox1.Text == "f2c")
-                label1.Text = ((x - 32) * 5 / 9).ToString();
+                label1.Text = Convert.ToString((x - 32) * 5 / 9);
             else
                 label1.Text = ((x * 9 / 5) + 32).ToString();
 
         }
-        
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
