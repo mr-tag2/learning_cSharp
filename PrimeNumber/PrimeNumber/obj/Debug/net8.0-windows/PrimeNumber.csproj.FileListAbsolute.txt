@@ -1,0 +1,17 @@
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\bin\Debug\net8.0-windows\PrimeNumber.exe
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\bin\Debug\net8.0-windows\PrimeNumber.deps.json
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\bin\Debug\net8.0-windows\PrimeNumber.runtimeconfig.json
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\bin\Debug\net8.0-windows\PrimeNumber.dll
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\bin\Debug\net8.0-windows\PrimeNumber.pdb
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.Form1.resources
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.csproj.GenerateResource.cache
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.AssemblyInfoInputs.cache
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.AssemblyInfo.cs
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.sourcelink.json
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.dll
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\refint\PrimeNumber.dll
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.pdb
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\PrimeNumber.genruntimeconfig.cache
+C:\Projects\_Learning\learning_cSharp\PrimeNumber\PrimeNumber\obj\Debug\net8.0-windows\ref\PrimeNumber.dll
